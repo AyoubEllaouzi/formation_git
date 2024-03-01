@@ -1,4 +1,4 @@
 this is new file
 add line using branch2 
 add another line using branch2
-add another line using branch test2
+add another line using branch2
